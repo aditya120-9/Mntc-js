@@ -6,6 +6,11 @@ let accountState;
 
 //accountId=20//Not allowed
 console.log(accountId);
+/*
+prefer not to use var
+because of issue of block scope and functional scope
+
+*/
 
 accountEmail="pratap123@google.com"
 accountPassword="9999"
