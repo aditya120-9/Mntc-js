@@ -29,4 +29,4 @@ console.log(typeof "Aditya")
 console.log(typeof age)
 console.log(typeof null)
 
-console.log(typeof undefined)
+console.log(typeof undefined)  
